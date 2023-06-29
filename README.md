@@ -19,7 +19,7 @@ This project demonstrates a secure chat application implemented in Java, using e
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/maihientran/SecurityandEthics.git
+```git clone https://github.com/maihientran/SecurityandEthics.git```
 
 2. Open a terminal and navigate to the project directory.
 
