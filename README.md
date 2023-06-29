@@ -40,6 +40,6 @@ git clone https://github.com/maihientran/SecurityandEthics.git
 
 ## Acknowledgements
 
-This project was created as a demonstration of secure communication using encryption and HMAC in Java.
+This project was created as a demonstration of secure communication using AES encryption and HMAC in Java.
  It is meant for educational purposes and is based on the client-server model.
 
