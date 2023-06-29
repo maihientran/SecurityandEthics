@@ -30,9 +30,3 @@ This program enables secure communication between a server and multiple clients.
 
 - The client connects to the server using the hostname `localhost` and port `12345`. Adjust these values in the `Client` class if required.
 - The shared secret key used for encryption is specified as `SECRET_KEY` in the `Client` class. Modify it to your preferred key.
-
-## Enhancements
-
-- The program currently uses a simple command-line interface (CLI). You can extend it by building a graphical user interface (GUI) for a more user-friendly experience.
-- Implement message authentication using HMAC (Hash-based Message Authentication Code) to ensure message integrity and prevent tampering.
-
