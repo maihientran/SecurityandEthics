@@ -1,7 +1,7 @@
 # SecurityandEthics
 # Secure Chat Application
 
-This project demonstrates a secure chat application implemented in Java, using encryption and HMAC (Hash-based Message Authentication Code) for secure communication between a server and multiple clients. The chat messages are encrypted and sent over a network, and the clients receive and display the decrypted messages.
+This project demonstrates a secure chat application implemented in Java, using encryption AES and HMAC (Hash-based Message Authentication Code) for secure communication between a server and multiple clients. The chat messages are encrypted and sent over a network, and the clients receive and display the decrypted messages.
 
 ## Features
 
