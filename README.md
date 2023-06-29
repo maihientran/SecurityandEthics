@@ -28,16 +28,16 @@ git clone https://github.com/your-username/secure-chat-application.git
 
 3. Compile the Java source files:
 
-javac Server.java
-javac Client.java
+```javac Server.java```
+```javac Client.java```
 
 4. Open three separate terminals - one for the server and two for the clients.
 
 5. In the server terminal, start the server:
-java Server
+```java Server```
 
 6. In each client terminal, start the clients:
-java Client
+```java Client```
 
 
 7. Enter messages in the client terminals and observe the encrypted messages being sent and decrypted responses being printed.
