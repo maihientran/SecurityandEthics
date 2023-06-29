@@ -28,8 +28,7 @@ git clone https://github.com/your-username/secure-chat-application.git
 
 3. Compile the Java source files:
 
-```javac Server.java```
-```javac Client.java```
+```javac *.java```
 
 4. Open three separate terminals - one for the server and two for the clients.
 
